@@ -1,6 +1,6 @@
 @Proposta.Api_HostAddress = http://localhost:5147
 
-GET {{Proposta.Api_HostAddress}}/weatherforecast/
+GET {{Proposta.Api_HostAddress}}/api/v1/propostas/ff064ca3-2428-482d-b7bf-a3e6b06aacc1
 Accept: application/json
 
 ###
